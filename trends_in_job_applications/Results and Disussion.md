@@ -22,4 +22,4 @@ All survey questions were renamed to shorter names for analysis, the original qu
 
 ### Most Significant Results
 
-![text here](images/Platform.png, "Title")
+![text here](images/Platform.png)

@@ -19,8 +19,7 @@ All survey questions were renamed to shorter names for analysis, the original qu
 | How often do you follow up with employers after submitting a job application?                      | Application Follow-Up Frequency             |
 | What information in a job listing is most important to you when deciding to apply?                 | Top Job Criterion                           |
 
+
 ### Most Significant Results
 
-<Images>
-
-![text here](images\Platform.png, "Title")
+![text here](images/Platform.png, "Title")

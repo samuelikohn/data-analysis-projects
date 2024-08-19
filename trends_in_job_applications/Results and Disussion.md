@@ -23,4 +23,4 @@ All survey questions were renamed to shorter names for analysis, the original qu
 
 <Images>
 
-![text here](trends_in_job_applications/images/Application%20Submission%20Method.png, "Title")
+![text here](images\Platform.png, "Title")

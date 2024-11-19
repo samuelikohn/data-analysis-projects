@@ -1,6 +1,6 @@
 # Executive Summary
 
-Salifort Motors is a fictional electric energy vehicle manufacturer. It has a global workforce of over 100,000 employees involved in the research, design, construction, validation, and distribution of electric, vehicles. Salifort’s end-to-end vertical integration model has made it a global leader at the intersection of alternative energy and automobiles. After receiving the results of a recent employee survey, senior leadership at Salifort Motors is seeking to increase employee retention. This analysis will involve two major phases:
+Salifort Motors is a fictional electric energy vehicle manufacturer. It has a global workforce of over 100,000 employees involved in the research, design, construction, validation, and distribution of electric vehicles. Salifort’s end-to-end vertical integration model has made it a global leader at the intersection of alternative energy and automobiles. After receiving the results of a recent employee survey, senior leadership at Salifort Motors is seeking to increase employee retention. This analysis will involve two major phases:
 
 1. Perform exploratory data analysis to identify the factors driving employees to leave the company.
 2. Construct a predictive model to identify employees that are likely to leave the company.
